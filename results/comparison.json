@@ -1,0 +1,9 @@
+{
+  "knn_accuracy": {
+    "baseline": 0.5416666666666666,
+    "clip": 0.5451388888888888
+  },
+  "planning_success": {
+    "baseline": 0.308
+  }
+}
